@@ -24,8 +24,8 @@ poem = "У лукоморья дуб зелёный;\
 \nВсё ходит по цепи кругом;\
 \nИдёт направо - песнь заводит,"
 
-input_file = 'txt\lab4var1in.txt'
-output_file = 'txt\lab4var1out.txt'
+input_file = 'lab4var1in.txt'
+output_file = 'lab4var1out.txt'
 additional.writer(poem, input_file)
 empty = empty_as(input_file, output_file)
 
